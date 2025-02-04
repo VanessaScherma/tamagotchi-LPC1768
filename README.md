@@ -28,3 +28,6 @@ The virtual pet featured in this project is inspired by *Totoro*, the beloved ch
 
 ## Notes
 This project explores embedded system development and user interaction through a touchscreen interface, providing an engaging experience with a digital pet.
+
+## See *Totoro Tamagotchi* in action!
+![Tomoro Tamagotchi](./tamagotchi_in_action.gif)
