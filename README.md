@@ -1,7 +1,9 @@
-# Tamagotchi-LPC1768 - Interactive Virtual Pet
+# Tamagotchi-LPC1768 - Interactive Virtual *Totoro*
 
 ## Overview
 This project was developed for the course *Computer architectures* at Politecnico di Torino. Tamagotchi-LPC1768 is a virtual pet simulation designed to run on the LPC1768 microcontroller and the LANDTIGER Board. It provides an interactive experience where users can engage with a digital pet through a touchscreen interface. The project utilizes Keil µVision for development and debugging, allowing for precise emulation of the hardware environment.
+
+The virtual pet featured in this project is inspired by *Totoro*, the beloved character from *Studio Ghibli*, bringing a charming and recognizable touch to the simulation.
 
 ## Features
 - **Keil µVision Emulation**: Uses the LANDTIGER emulator (or real hardware) for implementation.
@@ -11,7 +13,7 @@ This project was developed for the course *Computer architectures* at Politecnic
 
 ## Project Structure
 - `tamagotchi_lpc1768_board/` - Contains the source code and project files.
-- `Application Note.pdf` - Detailed technical documentation of the implementation.
+- `Application_Note.pdf` - Detailed technical documentation of the implementation.
 - `Project_Documentation.pdf` - Project description and requirements.
 
 ## Setup & Usage
